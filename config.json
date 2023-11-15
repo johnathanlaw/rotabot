@@ -49,7 +49,7 @@
     "message": "Good morning! :wave: The following are on rota this week:\n`Daily Scrum:` <<5>> - <<1>>\n`Green Flag:` <<6>>\n`Next Retro:` <<7>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs/edit?usp=sharing|here>. "
 },
 {
-    "name": "Designer",
+    "name": "Designer Engagement",
     "description": "The designer rota, posts to #dpc-designer-team-engagement",
     "owner": "Abhi",
     "active": true,
@@ -57,4 +57,14 @@
     "sheet-id": "971719928",
     "slack-channel": "C052MEK7WAX",
     "message": "Good morning! :wave: The following person is on rota today:\n`Engagement:` <<1>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE/edit?usp=sharing|here>. "
+},
+{
+    "name": "Designer Scrum",
+    "description": "The designer scrum rota, posts to #dpc-designer-team",
+    "owner": "Abhi",
+    "active": true,
+    "spreadsheet": "1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE",
+    "sheet-id": "971719928",
+    "slack-channel": "C036500A5HA",
+    "message": "Good morning! :wave: The following person is on rota today:\n`Daily Scrum PLG:` <<2>>\n`Daily Scrum Core:` <<3>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE/edit?usp=sharing%7Chere>. "
 }]
