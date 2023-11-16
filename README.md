@@ -6,8 +6,9 @@ Created by JLaw, riding on the coattails of Mia!
 1. Ensure that you have added the Zapier app to the Slack channel you want to post to.
     * You can do this by typing `/apps` into the text entry field at the bottom, and then searching for `Zapier`.
 2. Ensure that the rota spreadsheet is viewable by `All Matillion` or by `Johnathan Law` at a minimum.
-3. Follow the example configuration block below, and add it to the Zap.
-4. This will be triggered the following day at 8am.
+3. Follow the example configuration block below, and add it to this repository.
+    * Commit and push your changes to `main` inside the `config.json` file
+4. This will be triggered the following day at 8am. The file is read from GitHub at execution time.
 
 ### Example Configuration
 ```json
