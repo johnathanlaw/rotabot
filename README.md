@@ -2,8 +2,15 @@
 ## Introduction
 Created by JLaw, riding on the coattails of Mia!
 
-## Example Configuration
-```
+## Instructions
+1. Ensure that you have added the Zapier app to the Slack channel you want to post to.
+    * You can do this by typing `/apps` into the text entry field at the bottom, and then searching for `Zapier`.
+2. Ensure that the rota spreadsheet is viewable by `All Matillion` or by `Johnathan Law` at a minimum.
+3. Follow the example configuration block below, and add it to the Zap.
+4. This will be triggered the following day at 8am.
+
+### Example Configuration
+```json
 {
     "name": "MDL GF Rota", // The name of this rota
     "description": "The MDL greenflag rota, posts to #mdl-team", // A description of what this rota is for
