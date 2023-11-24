@@ -67,4 +67,14 @@
     "sheet-id": "971719928",
     "slack-channel": "C036500A5HA",
     "message": "Good morning! :wave: The following person is on rota today:\n`Daily Scrum PLG:` <<2>>\n`Daily Scrum Core:` <<3>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE/edit?usp=sharing|here>. "
+},
+{
+    "name": "SJE Engineering Rota",
+    "description": "The SJE Engineering rota, posts to #sje-hermes",
+    "owner": "Alex Singh",
+    "active": true,
+    "spreadsheet": "1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg",
+    "sheet-id": "971719928",
+    "slack-channel": "C02SLT9VD2N",
+    "message": "Good morning! :wave: The following are on rota this week:\n`Daily Scrum:` <<1>>\n`Sprint Retro:` <<2>>\n\nFor any clashes between your <https://docs.google.com/spreadsheets/d/1DTJTzTv1VJ5TQ7uey3UrmTknsmkPijSntamyOLMnQ_o/edit#gid=703578013|planned holidays> and your rota days, please check with the team who can swap with you and update the rota <https://docs.google.com/spreadsheets/d/1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg/edit#gid=822553857|here>.\n"
 }]
