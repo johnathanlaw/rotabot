@@ -16,16 +16,16 @@
     "spreadsheet": "1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0",
     "sheet-id": "971719928",
     "slack-channel": "C05UQFEDWAJ",
-    "message": "Hello! :wave: The Green Flag holders who are on the Incident rota today are:\n\n`Modular:` <<3>>\n`QE:` <<4>>\n\nFor any Custom Connector Incidents, please reach out to the Green Flag Holder.\n\n`Custom Connector:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit#gid=0|here>."
+    "message": "Hello! :wave: The Green Flag holder who is on the Incident rota today is:\n\n`Modular:` <<3>>\n\nFor any Custom Connector Incidents, please reach out to the Green Flag Holder.\n\n`Custom Connector:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit#gid=0|here>."
 },
 {
     "name": "Custom Connector",
-    "description": "The custom connectors rota, posts to #int-custom-connector-squad",
+    "description": "The custom connectors rota, posts to #int-construct-squad",
     "owner": "Daren Roberts",
     "days-active": "YYYYY",
     "spreadsheet": "1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0",
     "sheet-id": "971719928",
-    "slack-channel": "C04QXTUFP51",
+    "slack-channel": "C0481BULFEX",
     "message": "Hello! :wave: The Green Flag holder today is:\n\n`Custom Connector:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit#gid=0|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/3767304311/Green+Flag+Holder|here>."
 },
 {
