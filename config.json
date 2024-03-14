@@ -100,7 +100,7 @@
 },
 {
     "name": "ITSD Rotabot",
-    "description": "IT Service Desk Rota, posts to #temp-it-rotabot",
+    "description": "IT Service Desk Rota, posts to #it-rotabot",
     "owner": "Mark Chadwick",
     "days-active": "YYYYY",
     "spreadsheet": "16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4",
