@@ -97,4 +97,14 @@
     "sheet-id": "971719928",
     "slack-channel": "C022W8BNS9L",
     "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<1>>\n`Roadmap:` <<2>>\n`Roadmap Stats:` <<3>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/18YGBcloJIlwebUCxG0t3oqzXEGvGhKc-cIzyty8EQrs/edit?usp=sharing|here>."
+},
+{
+    "name": "ITSD Rotabot",
+    "description": "IT Service Desk Rota, posts to #temp-it-rotabot",
+    "owner": "Mark Chadwick",
+    "days-active": "YYYYY",
+    "spreadsheet": "16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4",
+    "sheet-id": "971719928",
+    "slack-channel": "C06PARZUMJA",
+    "message": "Good morning! :wave: Here is todays ITSD rota!\n`BAU:` <<1>> & <<2>>\n`Project:` <<3>> & <<4>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4/edit?usp=sharing|here>."
 }]
