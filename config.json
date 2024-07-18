@@ -10,23 +10,33 @@
 },
 {
     "name": "Modular Connectors",
-    "description": "The Modular Connectors rota, posts to #int-conjure-squad",
-    "owner": "Daren Roberts",
+    "description": "The Incidents & GF rota, posts to #int-conjure-squad",
+    "owner": "Adrian Nixon",
     "days-active": "YYYYY",
     "spreadsheet": "1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0",
     "sheet-id": "971719928",
     "slack-channel": "C05AV1DNJ1K",
-    "message": "Hello! :wave: The Green Flag holder who is on the Modular Connectors rota today is:\n\n`Modular:` <<3>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit#gid=0|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/4077223947/Modular+Connectors+-+Green+Flag+Holder|here>."
+    "message": "Hello! :wave: The Green Flag holder today is:\n\n<<5>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit?gid=845140422#gid=845140422|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/4077223947/Connectors+-+Green+Flag+Holder|here>."
 },
 {
     "name": "Custom Connector",
-    "description": "The custom connectors rota, posts to #int-construct-squad",
-    "owner": "Daren Roberts",
+    "description": "The Incidents & GF rota, posts to #int-construct-squad",
+    "owner": "Adrian Nixon",
     "days-active": "YYYYY",
     "spreadsheet": "1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0",
     "sheet-id": "971719928",
     "slack-channel": "C0481BULFEX",
-    "message": "Hello! :wave: The Green Flag holder today is:\n\n`Custom Connector:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit#gid=0|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/3767304311/Green+Flag+Holder|here>."
+    "message": "Hello! :wave: The Green Flag holder today is:\n\n<<5>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit?gid=845140422#gid=845140422|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/4077223947/Connectors+-+Green+Flag+Holder|here>."
+},
+{
+    "name": "Incidents & Flex",
+    "description": "The Incidents & GF rota, posts to #int-incidents-flex-squad",
+    "owner": "Adrian Nixon",
+    "days-active": "YYYYY",
+    "spreadsheet": "1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0",
+    "sheet-id": "971719928",
+    "slack-channel": "C05UQFEDWAJ",
+    "message": "Hello! :wave: The Green Flag holder today is:\n\n<<5>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1gAVbp4hsOpzCUhIIhe5IpbGMe-0IJrRNO78AvdCfKM0/edit?gid=845140422#gid=845140422|here>.\nSee details about what the Green Flag responsibilities are <https://matillion.atlassian.net/wiki/spaces/CON/pages/4077223947/Connectors+-+Green+Flag+Holder|here>."
 },
 {
     "name": "Git",
