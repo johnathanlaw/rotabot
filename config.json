@@ -118,15 +118,5 @@
         "sheet-id": "971719928",
         "slack-channel": "C06PARZUMJA",
         "message": "Good morning! :wave: Here is todays ITSD rota!\n`BAU:` <<1>>\n`Project:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4/edit?usp=sharing|here>."
-    },
-    {
-        "name": "Platform Weekly Rota",
-        "description": "The Platform Weekly Rota, posts to #xxx",
-        "owner": "Leila Abidi",
-        "days-active": "NNNNY",
-        "spreadsheet": "1oSEkgW2B9mPd_bfGfXy8Aij9APK9Pm5xxATbixVgv1Q",
-        "sheet-id": "971719928",
-        "slack-channel": "C02HU6DV8MP",
-        "message": "Good Morning! :wave: Mondays Platform meeting will be run by <<2>>\n\nThe next team will be <<3>>\n\nIf there are any issues with this, please swap with another team. The rota can be found <https://docs.google.com/spreadsheets/d/1oSEkgW2B9mPd_bfGfXy8Aij9APK9Pm5xxATbixVgv1Q/edit?usp=sharing|here>."
     }
 ]
