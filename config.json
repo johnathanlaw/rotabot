@@ -80,16 +80,6 @@
         "message": "Good morning! :wave: The following are on rota today:\n`Daily Scrum:` <<1>>\n`Sprint Ceremonies:` <<2>>\n\nFor any clashes between your <https://docs.google.com/spreadsheets/d/1DTJTzTv1VJ5TQ7uey3UrmTknsmkPijSntamyOLMnQ_o/edit#gid=703578013|planned holidays> and your rota days, please check with the team who can swap with you and update the rota <https://docs.google.com/spreadsheets/d/1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg/edit#gid=822553857|here>.\n"
     },
     {
-        "name": "DPC Release Comms Rota",
-        "description": "Rota for the DPC release notes comms, posts to #dpc-pm-po-ux-sync",
-        "owner": "Sarah Waters",
-        "days-active": "YNNNN",
-        "spreadsheet": "199rauTQCN7B2AdsRUrFMdYlh_sX8wgdh0uZxklYnntk",
-        "sheet-id": "971719928",
-        "slack-channel": "C047C0CDS15",
-        "message": "Morning :wave: This weeks point person for DPC release comms is: <<1>>. \nPlease refer to this <https://matillion.atlassian.net/wiki/spaces/SETL/pages/3724313001/DPC+Release+Comms|Confluence page> as a reminder of the process.\n\nNext week, the point person will be <<2>>.If there is any issue with this, please be sure to arrange for cover. The rota can be found <https://docs.google.com/spreadsheets/d/199rauTQCN7B2AdsRUrFMdYlh_sX8wgdh0uZxklYnntk/edit#gid=822553857|here>"
-    },
-    {
         "name": "DPC AI Team",
         "description": "Rota for the DPC AI Team, posts to #ai-team",
         "owner": "Rick Gale",
