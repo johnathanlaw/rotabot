@@ -11,12 +11,12 @@
     },
     {
         "name": "Integrations GF",
-        "description": "The Integration GF rota, posts to #integrations-pod-eng",
+        "description": "The Integration GF rota, posts to #load-stream-share-pod-all",
         "owner": "Daren Roberts",
         "days-active": "YYYYY",
         "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=971719928",
         "sheet-id": "971719928",
-        "slack-channel": "C05HM7F5GSZ",
+        "slack-channel": "C040Q9B41UL",
         "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<1>>\n`Green Flags are:` <<2>> & <<3>>\n`Squads involved are:` <<4>> & <<5>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota <https://docs.google.com/spreadsheets/d/1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=822553857#gid=822553857?usp=sharing|here>."
     },
     {
