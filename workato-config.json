@@ -12,7 +12,7 @@
         },
         {
             "name": "Integrations GF",
-            "description": "The Integration GF rota, posts to #load-stream-share-pod-all",
+            "description": "The Integration GF rota, posts to #load-stream-share-pod-all and #int-incidents-flex-squad",
             "owner": "Daren Roberts",
             "days_active": "YYYYY",
             "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk",
@@ -23,7 +23,7 @@
         {
             "name": "Git",
             "description": "The Git rota, posts to #team-saas-etl-git",
-            "owner": "Mia",
+            "owner": "Mia McMillan",
             "days_active": "YYYYY",
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
             "sheet_name": "Today",
