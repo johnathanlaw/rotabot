@@ -40,3 +40,8 @@ Created by JLaw, riding on the coattails of Mia!
   "message": "Good morning! :wave: This is a test message!\n`Person A:` <<col_B>>\n`Person B:` <<col_C>>\n`Person C:` <<col_D>>\n`Person D:` <<col_E>>\n`Person E:` <<col_F>>\n`Person F:` <<col_G>>\n`Person G:` <<col_H>>\n`Person H:` <<col_I>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1LBo8Lt-7Xk8r78Ydobe9fDvtf98JP5yOCzZOjsiTtok/edit?usp=sharing|here>. " // The message to send, see https://help.zapier.com/hc/en-us/articles/8496025607181
 }
 ```
+
+## Testing
+
+There is a separate Workato recipe that can be enabled for testing. It is configured to ignore the Slack channels provided, and exclusively post into #rotabot-testing.
+Please ask Johnathan for the URL, you submit the same config that is stored in this repository via a POST request, and the config in the body.

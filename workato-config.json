@@ -8,7 +8,7 @@
             "spreadsheet": "1XHDVi_VrUW0MX9emmpdqTsa78Xc6Qqpal24xidBXRb8",
             "sheet_name": "Today",
             "slack_channel": ["C029XCPDNH0"],
-            "message": "Hello! :wave: The Green Flag holder today is:\n`CDC:` <<col_C>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1XHDVi_VrUW0MX9emmpdqTsa78Xc6Qqpal24xidBXRb8/edit#gid=0|here>.\n\nSee details about what the Green Flag means <https://docs.google.com/document/d/1GOGUruD6ijSHyXgZLyJSRMyuSf0NVY1ICzl9PxaU208/edit|here>."
+            "message": "Hello! :wave: The Green Flag holder today is:\n`CDC:` <<col_C>>\n\nSee details about what the Green Flag means <https://docs.google.com/document/d/1GOGUruD6ijSHyXgZLyJSRMyuSf0NVY1ICzl9PxaU208/edit|here>."
         },
         {
             "name": "Integrations GF",
@@ -18,7 +18,7 @@
             "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk",
             "sheet_name": "Today",
             "slack_channel": ["C040Q9B41UL", "C05UQFEDWAJ"],
-            "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<col_B>>\n`Green Flags are:` <<col_C>> & <<col_D>>\n`Squads involved are:` <<col_E>> & <<col_F>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota <https://docs.google.com/spreadsheets/d/1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=822553857#gid=822553857?usp=sharing|here>."
+            "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<col_B>>\n`Green Flags are:` <<col_C>> & <<col_D>>\n`Squads involved are:` <<col_E>> & <<col_F>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota."
         },
         {
             "name": "Git",
@@ -28,7 +28,7 @@
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
             "sheet_name": "Today",
             "slack_channel": ["C03KHEGB1S5"],
-            "message": "Good morning! :wave: The following are on rota this week:\n`Daily Scrum:` <<col_C>> - <<col_B>>\n`Green Flag:` <<col_D>>\n`Next Retro:` <<col_E>>\n\nFor any clashes between your <https://docs.google.com/spreadsheets/d/1Q2aBUo8IK5bh10qJEtwgDE3L42Ik4uK5JubX8XFNwrE/edit#gid=1102222716|planned holidays> and your rota days, please check with the team who can swap with you and update the rota <https://docs.google.com/spreadsheets/d/1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs/edit?usp=sharing|here>.\n"
+            "message": "Good morning! :wave: The following are on rota this week:\n`Daily Scrum:` <<col_C>> - <<col_B>>\n`Green Flag:` <<col_D>>\n`Next Retro:` <<col_E>>"
         },
         {
             "name": "Designer Engagement",
@@ -38,7 +38,7 @@
             "spreadsheet": "1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE",
             "sheet_name": "Today",
             "slack_channel": ["C052MEK7WAX"],
-            "message": "Good morning! :wave: The following person is on rota today:\n`Engagement:` <<col_B>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE/edit?usp=sharing|here>. "
+            "message": "Good morning! :wave: The following person is on rota today:\n`Engagement:` <<col_B>>"
         },
         {
             "name": "Designer Scrum",
@@ -48,7 +48,7 @@
             "spreadsheet": "1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE",
             "sheet_name": "Today",
             "slack_channel": ["C036500A5HA"],
-            "message": "Good morning! :wave: The following person is on rota today:\n`Daily Scrum Core:` <<col_C>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE/edit?usp=sharing|here>. "
+            "message": "Good morning! :wave: The following person is on rota today:\n`Daily Scrum Core:` <<col_C>>"
         },
         {
             "name": "SJE Engineering Rota",
@@ -58,7 +58,7 @@
             "spreadsheet": "1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg",
             "sheet_name": "Today",
             "slack_channel": ["C02SLT9VD2N"],
-            "message": "Good morning! :wave: The following are on rota today:\n`Daily Scrum:` <<col_B>>\n`Sprint Ceremonies:` <<col_C>>\n\nFor any clashes between your <https://docs.google.com/spreadsheets/d/1DTJTzTv1VJ5TQ7uey3UrmTknsmkPijSntamyOLMnQ_o/edit#gid=703578013|planned holidays> and your rota days, please check with the team who can swap with you and update the rota <https://docs.google.com/spreadsheets/d/1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg/edit#gid=822553857|here>.\n"
+            "message": "Good morning! :wave: The following are on rota today:\n`Daily Scrum:` <<col_B>>\n`Sprint Ceremonies:` <<col_C>>\n\nFor any clashes between your planned holidays and your rota days, please check with the team who can swap with you and update the rota."
         },
         {
             "name": "DPC AI Team",
@@ -68,7 +68,7 @@
             "spreadsheet": "1kA8S5GBTHn6THwEv2mjx3If75DlYhHP4oONSJEHmpi4",
             "sheet_name": "Today",
             "slack_channel": ["C05V92902UT"],
-            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<col_D>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1kA8S5GBTHn6THwEv2mjx3If75DlYhHP4oONSJEHmpi4/edit#gid=1162881823|here>."
+            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<col_D>>"
         },
         {
             "name": "Matillion Community Team Rota",
@@ -78,17 +78,17 @@
             "spreadsheet": "18YGBcloJIlwebUCxG0t3oqzXEGvGhKc-cIzyty8EQrs",
             "sheet_name": "Today",
             "slack_channel": ["C022W8BNS9L"],
-            "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<col_B>>\n`Roadmap:` <<col_C>>\n`Roadmap Stats:` <<col_D>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/18YGBcloJIlwebUCxG0t3oqzXEGvGhKc-cIzyty8EQrs/edit?usp=sharing|here>."
+            "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<col_B>>\n`Roadmap:` <<col_C>>\n`Roadmap Stats:` <<col_D>>"
         },
         {
-            "name": "ITSD Rotabot",
-            "description": "IT Service Desk Rota, posts to #it-rotabot",
+            "name": "IT Service Desk - Triage Rotabot",
+            "description": "IT Service Desk Rota, posts to #it-sd-team",
             "owner": "Mark Chadwick",
             "days_active": "YYYYY",
-            "spreadsheet": "16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4",
+            "spreadsheet": "1Z9BgkDNs_EpknzEd7rHL5nZJL56QvRt-VRVYs980M_Q",
             "sheet_name": "Today",
-            "slack_channel": ["C06PARZUMJA"],
-            "message": "Good morning! :wave: Here is todays ITSD rota!\n`BAU:` <<col_B>>\n`Project:` <<col_C>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/16x7DhDuRpGarnYYYcbvc4a1QnziOVmy6F9XChaFida4/edit?usp=sharing|here>."
+            "slack_channel": ["C053WFU7MND"],
+            "message": "Good morning! :wave: Here is todays triage rota!\n`Morning Shift (9am-1pm):` <<col_B>>\n`Afternoon Shift (1pm-5pm):` <<col_C>>\n`Backup (9am-5pm):` <<col_D>>"
         }
     ]
 }
