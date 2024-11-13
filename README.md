@@ -19,6 +19,7 @@ Created by JLaw, riding on the coattails of Mia!
    - Complete the sheets named `Rota` and `Slack` sufficiently. Ensure you have enough days populated in `Rota` and names in `Slack`.
    - `Slack` sheet maps between names in the `Rota` and how they are mentioned in Slack. Ensure you use the member ID and the format `<@MEMBERID>`
    - Member ID can be retrieved from a user's profile, clicking on the triple dot menu, and selecting "Copy member ID"
+      - Ensure you do not use the channel ID when you click on a user, but the member ID as above!!
 3. Follow the example configuration block below, and add it to this repository.
    - Commit and push your changes to `main` inside the `workato-config.json` file to add a new rota.
 4. This will be triggered the following day at 8am. The file is read from GitHub at execution time.
