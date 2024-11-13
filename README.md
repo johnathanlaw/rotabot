@@ -12,7 +12,7 @@ Created by JLaw, riding on the coattails of Mia!
 ## Instructions
 
 1. Ensure that you have added `Workbot for Matillion Workspace` to the Slack channel you want to post to.
-   - This is particularly important to ensure this step is complete when it is a **private** Slack channel!
+   - You **must** complete this step, use `/invite`, select `Add apps to this channel` and find `Workbot for Matillion Workspace`.
 2. Get the Rota Spreadsheet set up the way you want it, it has a little bit of complexity!
    - Take a copy of the template sheet, available [here](https://docs.google.com/spreadsheets/d/1LBo8Lt-7Xk8r78Ydobe9fDvtf98JP5yOCzZOjsiTtok/edit?usp=sharing).
    - Ensure that the rota spreadsheet is viewable by `All Matillion` or by `Johnathan Law` at a minimum.
