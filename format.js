@@ -1,5 +1,6 @@
 exports.main = async ({ day, days_active, unformatted, channels, cells }) => {
-    const active = (days_active[day].toLowerCase() === 'y');
+    // day assumes starting at one, whereas we want it to be zero indexed
+    const active = (days_active[day-1].toLowerCase() === 'y');
     const ASCII_A = 'A'.charCodeAt(0); // 65
 
     let msg = unformatted;
