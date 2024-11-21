@@ -26,6 +26,7 @@ Created by JLaw, riding on the coattails of Mia!
    - You may wish to use the Slack channel `#rotabot-inactive` for testing. Its channel ID is `C064EJX84V6`.
    - Note that the `days-active` block is a `string` - This validates each day (Monday - Friday) if the rota should be posted that day. `Y` means active, `N` means inactive.
      - This means `YYYYY` is every weekday, `YNNNN` only posts on Monday.
+   - The message that is posted will automatically include a section at the end that links to the configured spreadsheet to edit (it reads `Update this rota here`)
 
 ### Example Configuration
 
