@@ -21,14 +21,14 @@
             "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<col_B>>\n`Green Flags are:` <<col_C>> & <<col_D>>\n`Squads involved are:` <<col_E>> & <<col_F>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota."
         },
         {
-            "name": "Git",
-            "description": "The Git rota, posts to #team-saas-etl-git",
+            "name": "DataOps",
+            "description": "The DataOps rota, posts to #data-ops-team",
             "owner": "Mia McMillan",
             "days_active": "YYYYY",
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
             "sheet_name": "Today",
             "slack_channel": ["C03KHEGB1S5"],
-            "message": "Good morning! :wave: The following are on rota this week:\n`Daily Scrum:` <<col_C>> - <<col_B>>\n`Green Flag:` <<col_D>>\n`Next Retro:` <<col_E>>"
+            "message": "Good morning! :blob-wave: The following are on rota this week:\n`Daily Scrum | GX:` <<col_C>> - <<col_B>>\n`Daily Scrum | Branch:` <<col_F>>\n`Green Flag + Renovate:` <<col_D>>\n`Next Retro:` <<col_E>>\n\nGot a <https://docs.google.com/spreadsheets/d/1Q2aBUo8IK5bh10qJEtwgDE3L42Ik4uK5JubX8XFNwrE/edit|holiday clash> with your rota? Find someone to swap with and update it."
         },
         {
             "name": "Designer Engagement",
