@@ -78,7 +78,7 @@
             "spreadsheet": "18YGBcloJIlwebUCxG0t3oqzXEGvGhKc-cIzyty8EQrs",
             "sheet_name": "Today",
             "slack_channel": ["C022W8BNS9L"],
-            "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<col_B>>\n`Roadmap:` <<col_C>>\n`Roadmap Stats:` <<col_D>>"
+            "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<col_B>>\n`Roadmap:` <<col_C>>\n`Roadmap Stats:` <<col_D>>\n`Editorial Calendar:` <<col_E>>"
         },
         {
             "name": "IT Service Desk - Triage Rotabot",
