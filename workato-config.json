@@ -89,6 +89,26 @@
             "sheet_name": "Today",
             "slack_channel": ["C053WFU7MND"],
             "message": "Good morning! :wave: Here is todays triage rota!\n`Morning Shift (9am-1pm):` <<col_B>>\n`Afternoon Shift (1pm-5pm):` <<col_C>>\n`Backup (9am-5pm):` <<col_D>>"
+        },
+        {
+            "name": "DPC Do11y Team",
+            "description": "Rota for the DPC Do11y Team, posts to #do11y-team",
+            "owner": "Rick Gale",
+            "days-active": "YYYYY",
+            "spreadsheet": "1GiAkIEwmLR6-sAR_7DGdgCgfWkHdoD25XCFj1SJMoJQ",
+            "sheet-id": "971719928",
+            "slack-channel": "C087EBLCHC5",
+            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1GiAkIEwmLR6-sAR_7DGdgCgfWkHdoD25XCFj1SJMoJQ/edit?usp=sharing|here>."
+        },
+        {
+            "name": "DPC Billing Team",
+            "description": "Rota for the DPC Billing Team, posts to #billing-team",
+            "owner": "Rick Gale",
+            "days-active": "YYYYY",
+            "spreadsheet": "1qGBobroOuQ-ETaEgPRYxW0WQTHDwpt5kWfGH8gCMKI4",
+            "sheet-id": "971719928",
+            "slack-channel": "C0872LSDNA3",
+            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1qGBobroOuQ-ETaEgPRYxW0WQTHDwpt5kWfGH8gCMKI4/edit?usp=sharing|here>."
         }
     ]
 }
