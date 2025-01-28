@@ -98,7 +98,7 @@
             "spreadsheet": "1GiAkIEwmLR6-sAR_7DGdgCgfWkHdoD25XCFj1SJMoJQ",
             "sheet_name": "Today",
             "slack_channel": "C087EBLCHC5",
-            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1GiAkIEwmLR6-sAR_7DGdgCgfWkHdoD25XCFj1SJMoJQ/edit?usp=sharing|here>."
+            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<col_C>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1GiAkIEwmLR6-sAR_7DGdgCgfWkHdoD25XCFj1SJMoJQ/edit?usp=sharing|here>."
         },
         {
             "name": "DPC Billing Team",
@@ -108,7 +108,7 @@
             "spreadsheet": "1qGBobroOuQ-ETaEgPRYxW0WQTHDwpt5kWfGH8gCMKI4",
             "sheet_name": "Today",
             "slack_channel": "C0872LSDNA3",
-            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<2>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1qGBobroOuQ-ETaEgPRYxW0WQTHDwpt5kWfGH8gCMKI4/edit?usp=sharing|here>."
+            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<col_C>>\n\nUpdate rota <https://docs.google.com/spreadsheets/d/1qGBobroOuQ-ETaEgPRYxW0WQTHDwpt5kWfGH8gCMKI4/edit?usp=sharing|here>."
         }
     ]
 }
