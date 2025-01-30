@@ -17,17 +17,7 @@
         "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk",
         "sheet-id": "971719928",
         "slack-channel": "C040Q9B41UL",
-        "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<1>>\n`Green Flags are:` <<2>> & <<3>>\n`Squads involved are:` <<4>> & <<5>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota <https://docs.google.com/spreadsheets/d/1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=822553857#gid=822553857?usp=sharing|here>."
-    },
-    {
-        "name": "Incidents & Flex",
-        "description": "The Incidents & GF rota, posts to #int-incidents-flex-squad",
-        "owner": "Daren Roberts",
-        "days-active": "YYYYY",
-        "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk",
-        "sheet-id": "971719928",
-        "slack-channel": "C05UQFEDWAJ",
-        "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<1>>\n`Green Flags are:` <<2>> & <<3>>\n`Squads involved are:` <<4>> & <<5>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota <https://docs.google.com/spreadsheets/d/1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=822553857#gid=822553857?usp=sharing|here>."
+        "message": "Good morning! :wave: The following are on the Integrations Incidents Green Flag rota this week:\n`Sprint is:` <<1>>\n`Green Flags are:` <<2>> & <<3>> & <<4>>\n`Squads involved are:` <<5>> & <<6>> & <<7>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota <https://docs.google.com/spreadsheets/d/1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk/edit?gid=822553857#gid=822553857?usp=sharing|here>."
     },
     {
         "name": "Git",
