@@ -21,14 +21,24 @@
             "message": "Good morning! :wave: The Green Flag rota this week:\n`Sprint is:` <<col_B>>\n`Green Flags are:` <<col_C>> & <<col_D>> & <<col_E>>\n`Squads involved are:` <<col_F>> & <<col_G>> & <<col_H>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota."
         },
         {
-            "name": "DataOps",
-            "description": "The DataOps rota, posts to #data-ops-team",
+            "name": "DataOps Engagement",
+            "description": "The DataOps Engagement rota, posts to #data-ops-team",
             "owner": "Mia McMillan",
             "days_active": "YYYYY",
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
-            "sheet_name": "Today",
+            "sheet_name": "MessageA",
             "slack_channel": ["C03KHEGB1S5"],
-            "message": "Good morning! :blob-wave: The following are on rota this week:\n`Daily Scrum:` <<col_C>> | <<col_F>> <<col_B>>\n`Green Flag + Renovate:` <<col_D>>\n`Next Retro:` <<col_E>>\n\nGot a <https://docs.google.com/spreadsheets/d/1Q2aBUo8IK5bh10qJEtwgDE3L42Ik4uK5JubX8XFNwrE/edit|holiday clash> with your rota? Find someone to swap with and update it."
+            "message": "<<col_C>><<col_D>><<col_E>><<col_F>><<col_G>><<col_H>><<col_I>><<col_J>><<col_K>><<col_L>>"
+        },
+        {
+            "name": "DataOps Internal",
+            "description": "The DataOps rota, posts to #data-ops-dev",
+            "owner": "Mia McMillan",
+            "days_active": "YYYYY",
+            "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
+            "sheet_name": "MessageB",
+            "slack_channel": ["C03P0RL9H1N"],
+            "message": "<<col_C>><<col_D>><<col_E>><<col_F>><<col_G>><<col_H>><<col_I>><<col_J>><<col_K>><<col_L>>"
         },
         {
             "name": "Designer Engagement",
