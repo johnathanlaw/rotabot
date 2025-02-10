@@ -28,7 +28,7 @@
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
             "sheet_name": "MessageA",
             "slack_channel": ["C03KHEGB1S5"],
-            "message": "<<col_C>><<col_D>><<col_E>><<col_F>><<col_G>><<col_H>><<col_I>><<col_J>><<col_K>><<col_L>>"
+            "message": "<<col_A>> <<col_B>> <<col_C>> <<col_D>> <<col_E>> <<col_F>> <<col_G>> <<col_H>> <<col_I>>"
         },
         {
             "name": "DataOps Internal",
@@ -38,7 +38,7 @@
             "spreadsheet": "1T0cOPUfKsW6aK5Pswarku_bdYr6m73F0lRkVnO_cDJs",
             "sheet_name": "MessageB",
             "slack_channel": ["C03P0RL9H1N"],
-            "message": "<<col_C>><<col_D>><<col_E>><<col_F>><<col_G>><<col_H>><<col_I>><<col_J>><<col_K>><<col_L>>"
+            "message": "<<col_A>> <<col_B>> <<col_C>> <<col_D>> <<col_E>> <<col_F>> <<col_G>> <<col_H>> <<col_I>>"
         },
         {
             "name": "Designer Engagement",
