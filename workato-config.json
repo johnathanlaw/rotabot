@@ -1,14 +1,14 @@
 {
     "config": [
         {
-            "name": "MDL GF Rota",
-            "description": "The MDL greenflag rota, posts to #mdl-team",
+            "name": "CDC & Streaming GF Rota",
+            "description": "The CDC & Streaming greenflag rota, posts to #help-streaming",
             "owner": "Daren Roberts",
             "days_active": "YYYYY",
             "spreadsheet": "1XHDVi_VrUW0MX9emmpdqTsa78Xc6Qqpal24xidBXRb8",
             "sheet_name": "Today",
-            "slack_channel": ["C029XCPDNH0"],
-            "message": "Hello! :wave: The Green Flag holder today is:\n`CDC:` <<col_C>>\n\nSee details about what the Green Flag means <https://docs.google.com/document/d/1GOGUruD6ijSHyXgZLyJSRMyuSf0NVY1ICzl9PxaU208/edit|here>."
+            "slack_channel": ["C07B153ENDS"],
+            "message": "Hello! :wave: The Green Flag holder today is:\n`CDC & Streaming:` <<col_C>>\n\nSee details about what the Green Flag means <https://docs.google.com/document/d/1GOGUruD6ijSHyXgZLyJSRMyuSf0NVY1ICzl9PxaU208/edit|here>."
         },
         {
             "name": "Integrations GF",
