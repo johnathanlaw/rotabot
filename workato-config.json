@@ -51,16 +51,6 @@
             "message": "Good morning! :wave: The following person is on rota today:\n`Daily Core:` <<col_C>> \n`QE Test:` <<col_D>>"
         },
         {
-            "name": "SJE Engineering Rota",
-            "description": "The SJE Engineering rota, posts to #sje-hermes",
-            "owner": "Alex Singh",
-            "days_active": "YYYYY",
-            "spreadsheet": "1ZOLMAkImyuzeCG_JQ8ync2snxjPmf76-a2ysvvLmCOg",
-            "sheet_name": "Today",
-            "slack_channel": ["C02SLT9VD2N"],
-            "message": "Good morning! :wave: The following are on rota today:\n`Daily Scrum:` <<col_B>>\n`Sprint Ceremonies:` <<col_C>>\n\nFor any clashes between your planned holidays and your rota days, please check with the team who can swap with you and update the rota."
-        },
-        {
             "name": "DPC AI Team",
             "description": "Rota for the DPC AI Team, posts to #ai-team",
             "owner": "Rick Gale",
