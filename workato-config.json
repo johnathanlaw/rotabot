@@ -31,26 +31,6 @@
             "message": "<<col_A>>\n<<col_B>>\n<<col_C>>\n<<col_D>>\n<<col_E>>\n<<col_F>>\n<<col_G>>\n<<col_H>>\n<<col_I>>"
         },
         {
-            "name": "Designer Engagement",
-            "description": "The designer rota, posts to #dpc-designer-team-engagement",
-            "owner": "Ramon Padilla",
-            "days_active": "YYYYY",
-            "spreadsheet": "1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE",
-            "sheet_name": "Today",
-            "slack_channel": ["C052MEK7WAX"],
-            "message": "Good morning! :wave: The following person is on rota today:\n`Engagement:` <<col_B>>"
-        },
-        {
-            "name": "Designer Core",
-            "description": "The designer core rota, posts to #dpc-designer-team",
-            "owner": "Ramon Padilla",
-            "days_active": "YYYYY",
-            "spreadsheet": "1I4BChT0QA6ySq9QSrgXFQZMbd4EQhyE7Mi1JW1uVyYE",
-            "sheet_name": "Today",
-            "slack_channel": ["C036500A5HA"],
-            "message": "Good morning! :wave: The following person is on rota today:\n`Daily Core:` <<col_C>> \n`QE Test:` <<col_D>>"
-        },
-        {
             "name": "DPC AI Team",
             "description": "Rota for the DPC AI Team, posts to #ai-team",
             "owner": "Rick Gale",
