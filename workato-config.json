@@ -1,16 +1,6 @@
 {
     "config": [
         {
-            "name": "Integrations GF",
-            "description": "The Integration GF rota, posts to #load-stream-share-pod-all, #lss-pod-eng",
-            "owner": "Daren Roberts",
-            "days_active": "YYYYY",
-            "spreadsheet": "1wiDQ3gi7-ixl-fYyX-Z6VBc9AHL-MqCEarT98_L98Uk",
-            "sheet_name": "Today",
-            "slack_channel": ["C040Q9B41UL","C05HM7F5GSZ"],
-            "message": "Good morning! :wave: The Green Flag rota this week:\n`Sprint is:` <<col_B>>\n`Green Flags are:` <<col_C>> & <<col_D>> & <<col_E>>\n`Squads involved are:` <<col_F>> & <<col_G>> & <<col_H>>\n\nFor any clashes between your planned leave and your rota days, make sure that you swap with someone who is available by updating the rota."
-        },
-        {
             "name": "DataOps Engagement",
             "description": "The DataOps Engagement rota, posts to #data-ops-team",
             "owner": "Mia McMillan",
