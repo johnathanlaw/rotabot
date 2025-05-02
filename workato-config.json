@@ -31,16 +31,6 @@
             "message": "<<col_A>>\n<<col_B>>\n<<col_C>>\n<<col_D>>\n<<col_E>>\n<<col_F>>\n<<col_G>>\n<<col_H>>\n<<col_I>>"
         },
         {
-            "name": "DPC AI Team",
-            "description": "Rota for the DPC AI Team, posts to #ai-team",
-            "owner": "Rick Gale",
-            "days_active": "YYYYY",
-            "spreadsheet": "1kA8S5GBTHn6THwEv2mjx3If75DlYhHP4oONSJEHmpi4",
-            "sheet_name": "Today",
-            "slack_channel": ["C05V92902UT"],
-            "message": "Good morning! :wave: The following are on rota this week:\n`Green Flag:` <<col_D>>"
-        },
-        {
             "name": "Matillion Community Team Rota",
             "description": "Community Team Rota, posts to #community-team",
             "owner": "Joe Farrar",
