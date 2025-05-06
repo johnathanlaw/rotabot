@@ -21,16 +21,6 @@
             "message": "<<col_A>>\n<<col_B>>\n<<col_C>>\n<<col_D>>\n<<col_E>>\n<<col_F>>\n<<col_G>>\n<<col_H>>\n<<col_I>>"
         },
         {
-            "name": "Matillion Community Team Rota",
-            "description": "Community Team Rota, posts to #community-team",
-            "owner": "Joe Farrar",
-            "days_active": "YYYYY",
-            "spreadsheet": "18YGBcloJIlwebUCxG0t3oqzXEGvGhKc-cIzyty8EQrs",
-            "sheet_name": "Today",
-            "slack_channel": ["C022W8BNS9L"],
-            "message": "Good morning! :wave: Here is todays Community Team rota!\n`Forum:` <<col_B>>\n`Roadmap:` <<col_C>>\n`Roadmap Stats:` <<col_D>>\n`Editorial Calendar:` <<col_E>>"
-        },
-        {
             "name": "IT Service Desk - Triage Rotabot",
             "description": "IT Service Desk Rota, posts to #it-sd-team",
             "owner": "Mark Chadwick",
