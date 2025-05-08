@@ -19,16 +19,6 @@
             "sheet_name": "MessageB",
             "slack_channel": ["C03P0RL9H1N"],
             "message": "<<col_A>>\n<<col_B>>\n<<col_C>>\n<<col_D>>\n<<col_E>>\n<<col_F>>\n<<col_G>>\n<<col_H>>\n<<col_I>>"
-        },
-        {
-            "name": "IT Service Desk - Triage Rotabot",
-            "description": "IT Service Desk Rota, posts to #it-sd-team",
-            "owner": "Mark Chadwick",
-            "days_active": "YYYYY",
-            "spreadsheet": "1Z9BgkDNs_EpknzEd7rHL5nZJL56QvRt-VRVYs980M_Q",
-            "sheet_name": "Today",
-            "slack_channel": ["C053WFU7MND"],
-            "message": "Good morning! :wave: Here is todays triage rota!\n`Morning Shift (9am-1pm):` <<col_B>>\n`Afternoon Shift (1pm-5pm):` <<col_C>>\n`Backup (9am-5pm):` <<col_D>>"
         }
     ]
 }
